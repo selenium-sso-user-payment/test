@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Signal<![CDATA[<script>alert(9)</script>]]</string>
+    <string name="yes" translatable="false">Yes</string>
+    <string name="no" translatable="false">No</string>
+    <string name="delete" translatable="false">Delete</string>
+    <string name="please_wait" translatable="false">Please wait...__new__</string>
+
+    <!-- ApplicationPreferencesActivity -->
+    <string name="ApplicationPreferencesActivity_currently_s" translatable="false">Currently: %s__new__</string>
+    <string name="ApplicationPreferenceActivity_you_havent_set_a_passphrase_yet" translatable="false">You haven\'t set a passphrase yet!</string>
+ 
+    <plurals name="ApplicationPreferencesActivity_messages_per_conversation" translatable="false">
+        <item quantity="one">1 message per conversation</item>
+        <item quantity="other">%d messages per conversation</item>
+    </plurals>
+ 
+    <string name="ApplicationPreferencesActivity_delete_all_old_messages_now">Delete all old messages now?__new__</string>
+
+    <plurals name="ApplicationPreferencesActivity_this_will_immediately_trim_all_conversations_to_the_d_most_recent_messages">
+        <item quantity="one">This will immediately trim all conversations to the most recent message.</item>
+        <item quantity="other">This will immediately trim all conversations to the %d most recent messages.</item>
+    </plurals>
+
+    <!-- AppProtectionPreferenceFragment -->
+    <plurals name="AppProtectionPreferenceFragment_minutes">
+        <item quantity="one">1 minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+
+    <!-- ConfirmIdentityDialog -->
+    <string name="ConfirmIdentityDialog_the_signature_on_this_key_exchange_is_different">The
+        identifying key material for %1$s has changed. This could either mean that someone is trying to
+        intercept your communication, or that %2$s simply re-installed Signal and now has a new
+        identity key.
+    </string>
+
+    <!-- ConversationItem -->
+    <string name="ConversationItem_message_size_d_kb">Message size: %d KB__new__</string>
+    <string name="ConversationItem_expires_s">Expires: %s__new__</string>
+    <string name="ConversationItem_error_not_delivered">Not delivered__new__</string>
+    <string name="ConversationItem_view_secure_media_question">View secure media?__new__</string>
+    <string name="ConversationItem_error_received_stale_key_exchange_message">Error, received stale key exchange message.</string>
+    <string name="ConversationItem_received_key_exchange_message_tap_to_process">Received key exchange message, tap to process.</string>
+    <string name="ConversationItem_group_action_left">%1$s has left the group.__new__</string>
+    <string name="ConversationItem_click_for_details">Tap for details__new__</string>
+    <string name="ConversationItem_click_to_approve_unencrypted">Tap for unsecured fallback__new__</string>
+    <string name="ConversationItem_click_to_approve_unencrypted_sms_dialog_title">Fallback to unencrypted SMS?__new__</string>
+    <string name="ConversationItem_click_to_approve_unencrypted_mms_dialog_title">Fallback to unencrypted MMS?__new__</string>
+</resources>
