@@ -1,0 +1,19 @@
+
+
+
+
+
+
+  This should be no more than 150 characters.  No markup here.
+
+
+
+  No limit, and you can use Markdown (as well as in the following sections).
+
+
+
+
+
+
+ Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
+2. Activate the plugin through the 'Plugins' screen in WordPress
