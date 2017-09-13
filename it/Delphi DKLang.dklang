@@ -1,0 +1,24 @@
+﻿SourceLANGID=1033
+LANGID=1040
+Generator=stringbucket.com
+LastModified=2017-09-13 9:51:24
+
+[FmMain]
+00000001=Ru.Board EasyWrite
+00000003=Main Menu
+00000090=More Buttons|
+00000018=File
+
+[FrmTables]
+00000002=Insert Table >>
+00000007=Caption
+00000008=Rows
+00000009=Columns
+00000011=Bulleted\nNumbered\nAlphabetic\n
+00000006=Bulleted
+
+[DlgEMail]
+00000001=Insert eMail ...
+00000008=Protect eMail
+00000010=Aggresive protection!
+00000009=Inserts image instead
