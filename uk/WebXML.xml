@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<content><row><text><![CDATA[<div style="width: 46%; float: left; padding: 0px 10px 0 0; color: #444; line-height: 20px;">
+<p>
+Crowdin is completely free of charge for Open Source projects. We love Open Source and ready to support community projects.<br />
+<br />
+Before submitting this form, please ensure your project meets the following criteria:<br />
+<br />
+1. The project is licensed under an approved license from the Open Source Initiative.<br />
+2. Your project source code is available for download to the public.<br />
+3. You do not have Commercial products related to the Open Source project you are requesting a license for.<br />
+</p>
+</div>
+<div style="width: 40%; float: left; border-left: 1px dashed #ccc;padding-left: 10px;">
+<iframe src="//support.crowdin.net/accounts/default1/cache/contactwidgets/26f4d549_form.html?cwid=26f4d549" style="border: none; overflow: hidden; width: 500px; height: 660px;"></iframe>
+</div>]]></text></row></content>
