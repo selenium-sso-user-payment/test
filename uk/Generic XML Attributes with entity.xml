@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sparklemotion/nokogiri/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sparklemotion/nokogiri/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sparklemotion/nokogiri/commits/master.atom"/>
+  <title>Recent Commits to nokogiri:master</title>
+  <entry>
+    <id>233489ddfe4698b24dfcdc1daf3ca15bc880e4b1</id>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/9077af710bdadc972a7898e457bf6ec1?s=30&amp;d=gravatar-user-420.png"/>
+  </entry>
+  <entry>
+    <id>b1483de363524c882b5e682a3d3a6e6ab5d7511b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/sparklemotion/nokogiri/commit/b1483de363524c882b5e682a3d3a6e6ab5d7511b"/>
+    <media:thumbnail height="30" width="30" url="https://secure.gravatar.com/avatar/bd6e7860b5a891bff077aeaeb5434e60?s=30&amp;d=gravatar-user-420.png"/>
+  </entry>
+</feed>
