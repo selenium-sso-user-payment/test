@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:conditions="Products.MovieSync">
+    <body>
+        <p>After aligning frames, you can immediately transfer the properties. However, before you do that, you might want to examine all of the properties that MovieSync has identified, just in case there are some that you do not want to transfer. As you select each aligned frame, the Properties window pane lists all of the properties for each movie. It also displays any differences between the old and new movies by showing those properties in red. You can select or deselect any properties to be copied.</p>
+    </body>
+</html>
