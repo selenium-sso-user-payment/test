@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Locale>
+  <LimitWindowMP3><![CDATA[{0} is enough to store <Run FontWeight="Bold">{1} mp3</Run> songs or <Run FontWeight="Bold">{2} photos</Run>. Get your space back!]]></LimitWindowMP3>
+  <LimitWindowLikeDescription>
+    <![CDATA[Go to our Facebook page by clicking the button below and
+<Run FontWeight="Bold">hit ‘Like’</Run>. Now you are ready to explore the hidden features. It’s
+easy - just follow the instructions and get activated at a glance!]]></LimitWindowLikeDescription>
+  <AboutUs>
+    <![CDATA[
+    <Bold>The CleanMyPC Team</Bold>
+    <LineBreak/><LineBreak/>
+    Anton Major<LineBreak/><LineBreak/>
+    
+    <Bold>Awesome Design</Bold><LineBreak/>
+    Serhiy Rachok[url=http://trysoda.com/]Design Studio "Soda"[/url]<LineBreak/>
+    Kyryl Bystriakov<LineBreak/><LineBreak/>
+    
+    <Bold>Inno Setup Installer</Bold><LineBreak/>
+    Copyright © 1997-2010 Jordan Russell<LineBreak/><LineBreak/>
+    
+    <Bold>#ZipLibrary</Bold><LineBreak/>
+    Copyright © 2001-2010<LineBreak/>
+    Mike Krueger, John Reilly
+    ]]>
+  </AboutUs>
+
+  <HWTabLicenseAgreementText>
+    <![CDATA[MACPAW, INC.
+
+  END USER LICENSE AGREEMENT FOR MACPAW PRODUCTS
+
+  Single Use License for Use on Windows® Systems
+
+  PLEASE READ THIS END USER LICENSE AGREEMENT ("LICENSE") CAREFULLY BEFORE INSTALLING OR USING MACPAW SOFTWARE (“SOFTWARE”). IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT INSTALL 0R USE THE SOFTWARE.
+
+  1. General. MacPaw reserves all rights not expressly granted to you. MacPaw retains the ownership of the Software.
+
+  2. Permitted License Uses and Restrictions.
+
+  3. Transfer. You may, however, make a one-time permanent transfer of all of your license rights to the Software to another party.
+
+  4. Consent to Use of Data.]]>
+  </HWTabLicenseAgreementText>
+</Locale>

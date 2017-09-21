@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/sparklemotion/nokogiri/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/sparklemotion/nokogiri/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/sparklemotion/nokogiri/commits/master.atom"/>
+  <title>Recent Commits to nokogiri:master</title>
+  <updated>2013-07-02T08:17:16-07:00</updated>
+  <entry>
+    <id>233489ddfe4698b24dfcdc1daf3ca15bc880e4b1</id>
+    <title>
+        Updated changelog with merged pull requests #887 and #931
+    </title>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #931 from sorah/dont_call_pkgconfig_when_using_bundled_libraries
+
+extconf.rb: Don&#39;t call pkg_config when using bundled libraries&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>15eff8be4539a3461cfc1e3c8a257e7eed134e01</id>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #887 from Mange/double-not
+
+Add support for bare and multiple :not() functions in selectors&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>64cd3c8f506394b558bda9376844a51db971bd60</id>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Add support for bare and multiple :not() functions in selectors
+
+This enables parsing of &quot;.flash:not(.error):not(.warning)&quot; and
+&quot;:not(p)&quot;.
+
+This entailed a huge change to the parser, but I think the parser should
+be a bit more robust now by not declaring :not a special case.&lt;/pre>
+    </content>
+  </entry>
+  <entry>
+    <id>d1b0afd02f8a2b783380bdfde3acfabf021a0c5a</id>
+    <content type="html">
+      &lt;pre style='white-space:pre-wrap;width:81ex'>Merge pull request #858 from ykzts/feature/not-only-child
+
+Add feature that the &#39;:only-child&#39; pseudo class should work even though it&#39;s in &#39;:not&#39; pseudo class.&lt;/pre>
+    </content>
+  </entry>
+</feed>

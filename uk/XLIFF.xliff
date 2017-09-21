@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file id="985" original="jasper-readme.md" source-language="en" target-language="uk" datatype="plaintext">
+    <body>
+      <trans-unit id="108244" identifier="e6142712dd642c37c07c3378be4e6f84">
+        <source>JasperReports-plugin</source>
+        <target xml:lang="uk" state="translated">Ппппппппп</target>
+        <note>Context: Headline 1&#13;
+XPath: /h1</note>
+      </trans-unit>
+      <trans-unit id="108245" identifier="e6156d3930bd1e9386a84cfbf965ee42">
+        <source>This maven compiles Jasper files to the target directory.</source>
+        <target xml:lang="uk" state="translated">Пппппп.</target>
+        <note>Context: Paragraph text&#13;
+XPath: /p</note>
+      </trans-unit>
+      <trans-unit id="108246" identifier="a47fac0b7c98879bd50a5f5469550b4b">
+        <source>Motivation</source>
+        <target xml:lang="uk" state="translated">Аа</target>
+        <note>Context: Headline 2&#13;
+XPath: /h2</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

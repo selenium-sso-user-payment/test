@@ -1,0 +1,31 @@
+
+= Introduction =
+
+The Http Post Tool is made to send repeatable test cases to mutliple environments of a SAP PI (Process Integration or associated ABAP Proxy Runtimes) landscape for testing purposes.
+
+Often the same messages need to be posted through PI again and again, even on DEV and later TEST stages of a PI landscape.
+Eventually even on PROD environments.
+
+
+= Introduction =
+
+The Http Post Tool is made to send repeatable test cases to mutliple environments of a SAP PI (Process Integration or associated ABAP Proxy Runtimes) landscape for testing purposes.
+
+Often the same messages need to be posted through PI again and again, even on DEV and later TEST stages of a PI landscape.
+Eventually even on PROD environments.
+
+
+The file structure of the tool looks like this:
+
+ * HttpPostTool.html
+ * Functions.js
+ * Data.js (references payloads folder)
+ * payloads (Folder)
+      * 1.xml
+      * 2.xml
+      * 3.xml
+
+= Download = 
+
+Download [http://code.google.com/p/sap-process-integration/downloads/detail?name=HttpPostTool_v1.zip&can=2&q=#makechanges here]
+
