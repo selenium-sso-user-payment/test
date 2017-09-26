@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<path>
+  <to>
+    <node>Simple node Text.</node>
+    <not_imported_node>not imported node text</not_imported_node>
+    <attribute atr="Simple attribute Text."  another="not imported attribute text" >not imported attribute text</attribute>
+  </to>
+  <recursive not="not import attribute">Recurcive text #1</recursive>
+  <blabla>
+    <tolik>
+      <recursive nnt="not import attribute">Recurcive text #2</recursive>
+    </tolik>
+  </blabla>
+  <suslik recurcive_attr="Recurcive attribute text #1"/>
+  <islamabad>
+    <castanabad>
+      <japan recurcive_attr="Recurcive attribute text #2">not import recurcive attribute text</japan>
+    </castanabad>
+  </islamabad>
+  <anatoliy>
+    <borysovych>
+      <not_root>
+        <path_to_node>Not root path to node text #1:</path_to_node>
+      </not_root>
+    </borysovych>
+  </anatoliy>
+  <inokentiy>
+    <borysovych>
+      <not_root>
+        <path_to_node>Not root path to node text #2:</path_to_node>
+      </not_root>
+      <recursive_node attribute="Recurcive node attribute text #1">Recurcive path to node text #1</recursive_node>
+    </borysovych>
+  </inokentiy>
+  <komunist>
+    <sssr>
+      <recursive_node attribute="Recurcive node attribute text #2">Recurcive path to node text #2</recursive_node>
+    </sssr>
+  </komunist>
+</path>
