@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="arr1">
+    <item name="str1">ф1 с1 джерело стрічки</item>
+    <item name="str2">ф1 с2 джерело стрічки</item>
+    <item name="str3">ф1 с3 джерело стрічки</item>
+    <item name="str4">ф1 с4 джерело стрічки</item>
+</string-array>
+</resources>
